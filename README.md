@@ -4,3 +4,4 @@
 
 - tweets from new accounts
 - tweets containing specific user names
+- hashtags
