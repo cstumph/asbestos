@@ -1,0 +1,25 @@
+{
+  "name": "Asbestos",
+  "description": "Flame resistant twitter experience.",
+  "version": "0.0.0",
+  "private": true,
+  "author": "",
+  "homepage": "",
+  "contributors": [ "" ],
+  "bugs": { "url": "" },
+  "scripts": { "start": "nodemon app.js" },
+  "dependencies": {
+    "jade": "*",
+    "lodash": "1.x"
+  },
+  "devDependencies": {
+    "async": "0.1.x",
+    "nodemon": "*"
+  },
+  "keywords": [],
+  "repository": "",
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  }]
+}
