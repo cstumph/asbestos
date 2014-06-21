@@ -5,7 +5,8 @@ A web based client would be infeasible, so pretty sure I'm going to try out atom
 
 ##Features:
 - Single column or multicolumn interface.
-- Subscribable mute lists/filters
+- themeable (sorry, I have to have this)
+- Subscribable mute lists/shareable filters
 
 
 ## Filters:
